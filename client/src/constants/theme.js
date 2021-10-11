@@ -3,7 +3,7 @@ const {width, height} = Dimensions.get('window');
 
 export const COLORS = {
   // base colors
-  primary: '#FC6D3F', // orange
+  primary: '#19d175', // orange
   secondary: '#CDCDD2', // gray
 
   // colors
@@ -14,8 +14,13 @@ export const COLORS = {
   lightGray2: '#F6F6F7',
   lightGray3: '#EFEFF1',
   lightGray4: '#F8F8F9',
+  lightGray5: '#c3c3de',
   transparent: 'transparent',
   darkgray: '#898C95',
+  cardBackgroundLight: 'white',
+  cardBackgroundDark: 'black',
+  mainColor: '#00ff7f',
+  secondColor: '',
 };
 
 export const SIZES = {
